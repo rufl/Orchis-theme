@@ -1,0 +1,8 @@
+button:hover { background-color: $primary_container$; color: $on_container$; }
+button:checked { background-color: $primary$; color: $on_primary$; }
+button:focus-visible { border-color: $primary$; border-width: 2px; border-style: solid; }
+entry:focus-visible { border-color: $primary$; border-width: 2px; border-style: solid; }
+.pearl-card { background-color: $container$; }
+.pearl-island { background-color: $container$; }
+.pearl-dock { background-color: $container$; }
+.pearl-tile { background-color: $container$; }
