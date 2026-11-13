@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "dinx.orchis-rounded.ghostty",
+  "application": "ghostty",
+  "adapter": "ghostty",
+  "name": "Orchis Rounded \u00b7 ghostty",
+  "author": "DINX",
+  "license": "MIT",
+  "source": "https://github.com/rufl/Orchis-theme",
+  "asset_version": "1.0.0",
+  "variants": [
+    "dark",
+    "light"
+  ],
+  "templates": [
+    {
+      "path": "profiles/ghostty.conf",
+      "output": "ghostty.conf"
+    }
+  ],
+  "instructions": "Applied to Ghostty-based terminals, including Deetty, while this theme is active."
+}
